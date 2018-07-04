@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "../travel-app-take-two/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
